@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1789450135 source:c:\users\user\desktop\myproject\red\main.cpp
+	<iostream>
+	<string>
+	<algorithm>
+	<windows.h>
+
