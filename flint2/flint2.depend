@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1790658806 source:c:\users\user\desktop\flint2\main.cpp
+	<iostream>
+	<clocale>
+	"odin.h"
+	"tor.h"
+
+1790658806 c:\users\user\desktop\flint2\odin.h
+
+1790657435 source:c:\users\user\desktop\flint2\odin.cpp
+	"odin.h"
+	<iostream>
+
+1790658806 c:\users\user\desktop\flint2\tor.h
+
+1790658806 source:c:\users\user\desktop\flint2\tor.cpp
+	"tor.h"
+	<iostream>
+
