@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1791868231 source:c:\users\user\desktop\red4\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<windows.h>
+
