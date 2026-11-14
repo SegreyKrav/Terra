@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1794286719 source:c:\users\user\desktop\red7\main.cpp
+	<iostream>
+	<fstream>
+	<sstream>
+	<regex>
+	<string>
+	<iomanip>
+	<windows.h>
+
